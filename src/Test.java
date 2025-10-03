@@ -1,5 +1,5 @@
 public class Test {
-  int x=12;
+  int x=14;
 	
 	void m1() {
 		System.out.println(x);
