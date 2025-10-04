@@ -4,7 +4,7 @@ public class Test {
 	void m1() {
 		System.out.println(x);
 	}
-	public static void main(String[]args)
+	public static void main(String[]vikas)
 	{
 		Test test=new Test();
 		test.m1();
